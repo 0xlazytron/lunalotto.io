@@ -1,5 +1,6 @@
-# ![LunaLotto Logo](https://lunalotoo.vercel.app/assets/logo.svg)
+# ![LunaLotto Logo](https://lunalotto.io/assets/logo.svg)
 
+## 🎫 Ticket #4866
 Welcome to **LunaLotto.io**, the innovative NFT-powered lottery platform that takes the excitement of winning to the next level! LunaLotto combines cutting-edge blockchain technology with the thrill of lottery gameplay, offering unique NFT collections and special rewards to our community.
 
 ---
@@ -17,31 +18,31 @@ Welcome to **LunaLotto.io**, the innovative NFT-powered lottery platform that ta
 ### Luna Founder NFTs
 
 - **Luna Founder 100**
-  ![Luna Founder 100](https://lunalotoo.vercel.app/assets/webm/100.webm)
+  ![Luna Founder 100](https://lunalotto.io/assets/posters/100.png)
 
 - **Luna Founder 500**
-  ![Luna Founder 500](https://lunalotoo.vercel.app/assets/webm/500.webm)
+  ![Luna Founder 500](https://lunalotto.io/assets/posters/500.png)
 
 - **Luna Founder 1000**
-  ![Luna Founder 1000](https://lunalotoo.vercel.app/assets/webm/1000.webm)
+  ![Luna Founder 1000](https://lunalotto.io/assets/posters/1000.png)
 
 - **Luna Founder 5000**
-  ![Luna Founder 5000](https://lunalotoo.vercel.app/assets/webm/5000.webm)
+  ![Luna Founder 5000](https://lunalotto.io/assets/posters/5000.png)
 
 - **Luna Founder 10000**
-  ![Luna Founder 10000](https://lunalotoo.vercel.app/assets/webm/10000.webm)
+  ![Luna Founder 10000](https://lunalotto.io/assets/posters/10000.png)
 
 - **Luna Founder 25000**
-  ![Luna Founder 25000](https://lunalotoo.vercel.app/assets/webm/25000.webm)
+  ![Luna Founder 25000](https://lunalotto.io/assets/posters/25000.png)
 
 - **Luna Founder 50000**
-  ![Luna Founder 50000](https://lunalotoo.vercel.app/assets/webm/50000.webm)
+  ![Luna Founder 50000](https://lunalotto.io/assets/posters/50000.png)
 
 ---
 
 ### 🎫 Luna Tickets
 
-![Luna Tickets](https://lunalotoo.vercel.app/assets/ticket.gif)
+![Luna Tickets](https://lunalotto.io/assets/ticket.gif)
 
 - Purchase **Luna Tickets** to participate in exclusive lotteries and win amazing prizes! Each ticket brings you one step closer to the next big jackpot.
 
@@ -66,9 +67,8 @@ Welcome to **LunaLotto.io**, the innovative NFT-powered lottery platform that ta
 
 ## 💬 Connect with Us
 
-- **Website**: [LunaLotto.io](https://lunalotoo.vercel.app/)
-- **Twitter**: [@LunaLotto](https://twitter.com/LunaLotto)
-- **Discord**: [LunaLotto Discord](https://discord.gg/lunalotto)
+- **Website**: [LunaLotto.io](https://lunalotto.io)
+- **Twitter**: [@LunaLotto](https://x.com/lotto_luna)
 
 Join the revolution of NFT-powered lotteries with **LunaLotto.io**!
 
